@@ -20,7 +20,6 @@ var http = require('http');
  * Create HTTP server.
  */
 var server = http.createServer(app);
-
 server.listen(3000)
 
 运行使用:node app.js 如果运行正常,删掉bin目录
