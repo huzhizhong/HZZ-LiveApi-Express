@@ -35,7 +35,6 @@ server.listen(3000)
 
 四.连接数据库mySql(我用的是:Navicate for MySQL)
 
-
 连接数据库遇到问题解决方案:
 https://baijiahao.baidu.com/s?id=1663734534335365714&wfr=spider&for=pc
 https://www.jianshu.com/p/b7e9a4da81a3
