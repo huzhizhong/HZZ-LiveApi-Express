@@ -1,9 +1,9 @@
 一.本地环境搭建:
 1.node
-2.npm
+2.npm 
 3.express安装
  	(1).npm install express -g
-    (2).npm install -g express-generator
+  (2).npm install -g express-generator
 
 二.创建项目:
 1.express+项目名
@@ -29,8 +29,9 @@ server.listen(3000)
 3.npm install nodemon -g 热启动
    nodemon app.js
 4.配置项目
-   (1).数据库连接基本配置 --------util
-
+   (1).数据库连接基本配置------------------util
+   (2).封装接口(测试工具:PostMan)---------controller
+ 
 
 四.连接数据库mySql(我用的是:Navicate for MySQL)
 
